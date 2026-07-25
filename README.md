@@ -1,0 +1,2 @@
+# Hajime no ippo Bot
+
