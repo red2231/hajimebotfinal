@@ -11,3 +11,4 @@ class Player(Cog):
      await ctx.send("testando")
 
 
+p = 't'
